@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://Dewmina892.github.io/"
-title: Dewcodes2
+title: Dewcodes
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 theme: [hugo-PaperMod]
 
@@ -144,6 +144,7 @@ params:
   profileMode:
     enabled: ture
     title: Hey there....I'm Dewmina
+    subtitle: Welcom to my websitee...Hope youu'll find what you are looking for...
     imageUrl: "how-to-draw-zoro-from-one-piece-featured-image-1200.png"
     imageTitle: my image
     # imageWidth: 120
@@ -175,7 +176,7 @@ params:
     - name: X
       title: Share PaperMod on X/Twitter
       url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-    - name: KoFi
+    - name: Youtube
       title: Buy me a Ko-Fi :)
       url: "https://ko-fi.com/adityatelange"
 
