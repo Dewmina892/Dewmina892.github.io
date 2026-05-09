@@ -142,9 +142,9 @@ params:
   images: ["images/papermod-cover.png"]
 
   profileMode:
-    enabled: false
-    title: PaperMod
-    imageUrl: "#"
+    enabled: ture
+    title: Hey there....I'm Dewmina
+    imageUrl: "how-to-draw-zoro-from-one-piece-featured-image-1200.png"
     imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
