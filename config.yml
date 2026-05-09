@@ -144,7 +144,7 @@ params:
   profileMode:
     enabled: ture
     title: Hey there....I'm Dewmina
-    subtitle: Welcom to my websitee...Hope youu'll find what you are looking for...
+    subtitle: Welcom to my website...Hope you'll find what you are looking for...
     imageUrl: "how-to-draw-zoro-from-one-piece-featured-image-1200.png"
     imageTitle: my image
     # imageWidth: 120
@@ -154,6 +154,11 @@ params:
         url: archives
       - name: Tags
         url: tags
+      - name: endemic🐾
+        url: endemic🐾
+      - name: Tags
+        url: tags
+
 
   homeInfoParams:
     Title: "PaperMod's Demo"
